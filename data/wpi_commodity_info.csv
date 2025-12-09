@@ -1,0 +1,841 @@
+﻿Commodity,commodity_weight,correlation_coefficient
+Bajra,0.08637,0.833699876
+Moong,0.07088,0.641915548
+Masur,0.05299,0.623893731
+Peas/Chawali,0.02444,0.802033507
+Cauliflower,0.16697,0.290243727
+Okra (Lady finger),0.14592,0.522876034
+Beans,0.08309,0.554876988
+Drumstick,0.01823,0.418292835
+Orange,0.12653,0.304697176
+Cashew nut,0.06583,0.393045905
+Grapes,0.04932,0.176489237
+Mosambi (Sweet Orange),0.02521,0.741360601
+Pear,0.01001,0.147308172
+Black Pepper,0.02098,0.078816956
+Garlic,0.05323,0.04513101
+Coriander,0.02154,0.76176421
+Tamarind,0.00964,0.343803547
+f.  OTHER FOOD ARTICLES,0.94799,0.841342458
+a.  FIBRES,0.83931,0.938994378
+Raw Cotton,0.66334,0.908835165
+Raw Wool,0.02629,0.765775173
+Raw Silk,0.07735,0.772933144
+Cotton Seed,0.01106,0.812490228
+Copra (Coconut),0.0731,0.53828913
+Gingelly Seed (Sesamum),0.01201,0.796411798
+Safflower (Kardi Seed),0.00221,0.847532839
+Tanning Materials,0.00418,-0.625819345
+Tobacco,0.09374,0.412764857
+Raw Rubber,0.28851,0.277976835
+Industrial wood,0.88561,-0.39471618
+Fodder,0.5314,0.845346905
+d.   FLORICULTURE,0.2039,0.775069364
+Rose,0.14264,0.758887696
+Marigold,0.03063,0.053302472
+Zinc Concentrate,0.02752,0.912774896
+Copper Concentrate,0.33393,0.887235266
+(D). CRUDE PETROLEUM & NATURAL GAS,2.4096,0.670480554
+Petrol,1.6047,0.686297267
+"Buffalo meat, fresh/frozen",0.07438,0.550425312
+Fish frozen/canned/processed,0.14067,0.808711607
+Cotton seed Oil,0.07081,0.834566226
+e. Manufacture of dairy products,1.16545,0.87993067
+Ice cream,0.06189,0.924051805
+f. Manufacture of grain mill products,2.00952,0.880033135
+Wheat flour (Atta),0.21121,0.865493862
+"Flour of cereals other than rice, wheat etc.",0.00742,0.923573832
+Basmati rice,0.4264,0.72676768
+"Biscuit, cookies",0.15875,0.936173011
+Bagasse,0.0276,0.402858832
+"j. Manufacture of cocoa, chocolate and sugar confectionery",0.17501,0.800206342
+Chocolate & cocoa powder,0.09685,0.772505464
+Spices (including mixed spices),0.1361,0.934462054
+n. Manufacture of processed ready to eat food,0.02428,0.840597668
+p. Manufacture of prepared animal feeds,0.3563,0.922261174
+Soya preparations excluding oil,0.01012,0.774727685
+b. Manufacture of malt liquors and malt,0.22526,0.90254436
+Country liquor,0.0625,0.932497276
+Cigarette,0.16619,0.712707135
+(D). MANUFACTURE OF TEXTILES,4.88068,0.973186043
+Woollen yarn,0.10192,0.744702517
+Woollen woven cloth,0.04506,0.890095616
+Synthetic Fabric  Others,0.05493,0.915410573
+"d. Manufacture of made-up textile articles, except apparel",0.2985,0.934839932
+Bed linen/Bed Spread,0.05655,0.936231332
+Cotton Dyed/printed textile,0.049,0.910908755
+Cotton Towel,0.09734,0.883438603
+"Men/Boys suits, coats and jackets",0.12904,0.656846381
+"Hosiery goods, others cotton",0.03878,0.746846136
+a. Tanning and dressing of leather; dressing and dyeing of fur,0.14215,-0.575195145
+Vegetable Tanned Leather,0.00002,#DIV/0!
+(G). MANUFACTURE OF WOOD AND OF PRODUCTS OF WOOD AND CORK  ,0.77181,0.834215322
+Particle Boards,0.11558,0.898660914
+"a. Manufacture of pulp, paper and paperboard",0.49296,0.960114037
+Paper for printing & writing,0.19261,0.916732662
+Laminated Paper,0.0282,0.819648407
+Laminated plastic sheet,0.02803,0.791132031
+Printed Books,0.29985,0.843954147
+Dye stuff/dyes incl. dye intermediates and pigments/colours,0.22821,0.870190437
+Aromatic chemicals,0.03278,0.922720336
+Caustic soda (sodium hydroxide),0.08237,0.700087246
+Mono Ethyl Glycol,0.04397,-0.335374207
+Menthol,0.02162,-0.378019734
+Amine,0.05566,0.882408476
+Alcohols,0.12767,0.959132826
+Phthalic anhydride,0.0191,0.557899452
+Sodium Silicate,0.01297,0.937399758
+Ammonia liquid,0.02116,0.861863434
+Paint,0.38664,0.964218201
+"Detergent cake, washing soap cake/bar/powder",0.30512,0.979917131
+Face/Body Powder,0.00413,0.862726788
+Safety matches (match box),0.06202,0.932288067
+Adhesive excluding gum,0.12705,0.840869696
+Adhesive tape (non-medicinal),0.02592,0.946539647
+Additive,0.08986,0.952873851
+Polyester chips or Polyethylene terepthalate (PET) chips,0.14608,0.174353276
+Acrylic fibre,0.04353,0.916538807
+Viscose staple fibre,0.01984,-0.147914514
+Anti cancer drugs,0.08012,-0.727716349
+Anti-retroviral drugs for HIV treatment,0.01316,0.521603937
+API & formulations of vitamins,0.70266,0.885707175
+Digestive enzymes and antacids,0.03613,0.917791167
+Antiseptics and disinfectants,0.0146,0.520836774
+Cotton wool (medicinal),0.00652,0.881968441
+(L). MANUFACTURE OF RUBBER AND PLASTICS PRODUCTS,2.29851,0.946349043
+Tractor Tyre,0.03327,0.441221045
+b. Manufacture of other rubber products,0.27178,0.695312118
+Condoms,0.0131,0.578245379
+Polypropylene film,0.05098,0.756061347
+Plastic furniture,0.0468,0.946046617
+Thermocol,0.06841,0.956148843
+Acrylic/plastic sheet,0.01563,0.915410366
+(M). MANUFACTURE OF OTHER NON-METALLIC MINERAL PRODUCTS,3.20176,0.976112823
+Glass bottle,0.1985,0.96041807
+Porcelain sanitary ware,0.12113,0.697915526
+Railway sleeper,0.0049,0.951269954
+Poles & posts of concrete,0.02629,0.958599098
+(N). MANUFACTURE OF BASIC METALS,9.64632,0.936758065
+Ferrochrome,0.11195,0.934509513
+b. Metallic iron,0.65301,0.926603745
+MS Slabs,0.58341,0.420637425
+MS Wire Rods,0.37842,0.930931046
+"Hot Rolled (HR) Coils & Sheets, including Narrow Strip",0.88361,0.890496831
+"Stainless Steel bars & rods, including flats",0.48307,0.936512742
+Aluminium powder,0.09148,0.96541003
+Copper shapes - bars/rods/plates/strips,0.62858,0.87367628
+Alumnium Foil,0.07863,0.956212783
+Aluminium ingot,0.4026,0.941444096
+Bracket,0.00358,0.21329751
+Auxiliary plant for use with boilers,0.02212,0.895371409
+"Bolts, screws, nuts & nails of Iron & steel",0.18662,0.968543766
+Sanitary fittings of Iron & Steel,0.06251,-0.188597689
+Pressure cooker,0.04521,0.947420297
+b. Manufacture of computers and peripheral equipment,0.33637,0.577952663
+f. Manufacture of watches and clocks,0.07551,0.795537198
+(Q). MANUFACTURE OF ELECTRICAL EQUIPMENT,2.9297,0.977468647
+Generators & Alternators,0.3902,0.900126751
+Safety fuse,0.00525,0.015953739
+Dry cells such as torch light batteries,0.04299,0.608175267
+Lead acid batteries for vehicles & other uses,0.00039,0.083589619
+Copper wire,0.07782,0.937958493
+Electric switch,0.17381,0.678900524
+Fan,0.0508,0.983725459
+Electric welding machine,0.06077,0.498820535
+Hydraulic pump,0.00026,-2.85643E-15
+Water pump,0.0769,0.882121835
+"e. Manufacture of ovens, furnaces and furnace burners",0.00837,-0.47245415
+Furnaces & Ovens,0.00837,-0.47245415
+h. Manufacture of other general-purpose machinery,0.43675,0.825104656
+Air conditioning plant,0.00015,0.405256875
+Deep freezers,0.01599,0.439193925
+Water purifier,0.02307,0.942673672
+Agriculture implements,0.26218,0.980529287
+Excavator,0.06463,0.615178892
+Loader,0.00379,0.648156596
+Roller mill (Raymond),0.0019,0.81979752
+Machinery for plastic products - extruded,0.08373,0.786152391
+Chemical equipment & system,0.00731,0.315995934
+Packing machine,0.01276,0.439326793
+Passenger vehicles,0.86336,0.322774788
+Shafts of all kinds,0.07112,0.914378487
+Cylinder liners,0.08823,0.358562664
+Seat for motor vehicles,0.15245,0.737084722
+(T). MANUFACTURE OF OTHER TRANSPORT EQUIPMENT,1.64777,0.957710952
+b. Manufacture of railway locomotives and rolling stock,0.10979,0.466969438
+c. Manufacture of motor cycles,1.30205,0.951249845
+d. Manufacture of bicycles and invalid carriages,0.117,0.902473371
+Iron/Steel Furniture,0.26311,0.946926009
+Cricket ball,0.00023,0.827359124
+Football,0.00562,0.920853835
+Playing Cards,0.00207,0.922465785
+e. Manufacture of medical and dental instruments and supplies,0.04941,0.74953147
+All commodities,100,0.999161873
+(A).  FOOD ARTICLES,15.25585,0.918782075
+a2. PULSES,0.6386,0.55650507
+Arhar,0.12914,0.576330518
+Urad,0.09165,0.485928783
+Potato,0.27737,0.333573592
+Cabbage,0.12251,0.138416753
+Carrot,0.01874,0.469658672
+Pointed gourd,0.0021,0.35803717
+Mango,0.46209,0.188069598
+Amla,0.01837,0.546039494
+"d.  EGGS,MEAT & FISH",2.40156,0.945318496
+Fish-Inland,0.525,0.808823749
+Mutton,0.44094,0.927472221
+Beef and Buffalo Meat,0.16159,0.734075298
+Poultry Chicken,0.55906,0.746928423
+Raw Jute,0.05453,0.800368657
+Castor Seed,0.09763,0.829122501
+c.  OTHER NON-FOOD ARTICLES,1.96043,0.71351758
+Bauxite,0.00842,0.408560815
+Iron Ore,0.20862,0.617531514
+Phosphorite,0.11352,0.896384332
+Garnet,0.00139,0.845720666
+Natural Gas,0.46423,0.658606028
+Coking Coal,0.64703,0.759951611
+b. Non-Coking Coal,1.40097,0.79517116
+a.) Non-Coking Coal G1 to G6 [GCV exceeding 5500 Kcal/kg.],0.4999,-0.560322513
+c. Lignite,0.09013,0.923337723
+(B). MINERAL OILS,7.94968,0.751782206
+Bitumen,0.22677,0.622284483
+Lube Oils,0.29199,0.96930803
+III   MANUFACTURED PRODUCTS,64.23054,0.993068485
+a. Processing and preserving of meat,0.13405,0.710287334
+"Meat of goat, fresh or chilled",0.02943,0.241603791
+"Other meats, preserved/processed",0.01934,0.885153518
+Shrimps/Prawns - Processed/Frozen,0.06329,0.180174082
+c. Processing and preserving of fruit and vegetables,0.13809,0.769192105
+Fruit pulp,0.03326,0.189518176
+Vanaspati,0.37937,0.91482552
+Groundnut Oil,0.05834,0.871608536
+Condensed Milk,0.02154,0.639215087
+Ghee,0.39349,0.88474732
+"i. Manufacture of sugar, molasses & honey",1.16275,0.583553298
+Gur,0.02354,0.767541119
+Honey,0.01122,0.801943525
+Noodles & similar extruded products,0.0264,0.789339775
+Processed Tea,0.33175,0.89376642
+Instant Coffee,0.03292,0.746800717
+m. Manufacture of Processed condiments & salt,0.16302,0.946326808
+Instant Food/Prepared meals based on vegetables,0.02428,0.840597668
+o. Manufacture of Health supplements,0.225,0.855599211
+Corn Flake,0.18477,0.852574816
+Whey powder,0.04023,0.144054251
+Rice Bran Extract,0.03918,0.940721841
+(B). MANUFACTURE OF BEVERAGES,0.90907,0.867169055
+"Cotton cloth (dyed, printed, or otherwise finished/processed)",0.94619,0.978732683
+"Fabrics/cloth, rayon",0.08362,0.883574241
+Blankets,0.00895,-0.565783438
+Terry Towel,0.05824,0.871753142
+(E). MANUFACTURE OF WEARING APPAREL,0.81414,0.83316512
+"a. Manufacture of wearing apparel (woven), except fur apparel",0.59324,0.788398164
+Leather garments incl. Jackets,0.0946,-0.465147465
+(F). MANUFACTURE OF LEATHER AND RELATED PRODUCTS,0.5354,0.433779107
+Gloves of leather,0.01002,0.090879141
+Leather Shoe,0.20737,0.442463174
+"Timber/wooden plank, sawn/resawn",0.05444,0.818357075
+Wooden board (non-electrical),0.00862,-0.664142628
+Paper bag including craft paper bag,0.00123,0.603842246
+Kraft paper,0.0822,0.83796031
+a. Manufacture of basic chemicals,1.4333,0.949693433
+Alkyl Benzene,0.07318,0.668872094
+Other Petrochemical Intermediates,0.00684,0.829998784
+"Aniline (including pna, ona, ocpna)",0.03068,0.930482726
+Nitric Acid,0.02048,0.891639371
+Sulphuric Acid,0.03029,0.538107539
+Di ammonium phosphate,0.07425,0.829821768
+Ammonium sulphate,0.0342,0.735206363
+"Nitrogenous fertilizer, others",0.00427,0.929475673
+c. Manufacture of plastic and synthetic rubber in primary form,1.00082,0.840197415
+Poly Propylene (PP),0.19433,0.602364166
+Poly Vinyl Chloride (PVC),0.08347,0.816606942
+Oleoresin,0.07154,0.805347008
+XLPE Compound,0.10911,0.717009758
+Hair oil/Body Oil,0.0089,0.824523009
+Shampoo,0.01534,0.077576276
+Plasticizer,0.00818,0.831139112
+Gelatine,0.02008,0.805613833
+"Vials/ampoule, glass, empty or filled",0.0263,0.752198913
+Vaccine for hepatitis B,0.00037,0.885295524
+Simvastatin,0.0523,0.704189622
+Anti allergic drugs,0.00959,-0.310807391
+Plastic capsules,0.07553,0.88632052
+Anti-malarial drugs,0.06041,-0.306210187
+Solid Rubber Tyres/Wheels,0.00473,0.319204306
+Cycle/Cycle rickshaw tyre,0.02371,0.715411777
+V belt,0.01101,0.947085253
+Rubber moulded goods,0.03434,0.958839275
+Conveyer belt (fibre based),0.04791,0.597787238
+Rubber Crumb,0.05232,-0.028452482
+Plastic film,0.24113,0.864852996
+Plastic bag,0.01975,0.862738866
+Ordinary sheet glass,0.00555,0.902400623
+Ceramic tiles (Vitrified tiles),0.17903,0.33560982
+Electric insulating material,0.20102,0.455485962
+Ordinary Portland cement,0.85277,0.944278303
+slag cement,0.0983,0.930663035
+Pozzolana cement,0.09194,0.898561825
+"g. Cutting, shaping and finishing of stone",0.23351,0.814890835
+h. Manufacture of other non-metallic mineral products,0.16911,0.125589352
+a. Inputs into steel making,1.41103,0.880292961
+Sponge Iron/Direct Reduced Iron (DRI),1.00352,0.861182186
+Stainless Steel Pencil Ingots/Billets/Slabs,0.41164,0.884367311
+Galvanized iron pipes,0.00075,0.88055379
+Aluminium Disk and Circles,0.03952,0.907125523
+MS castings,0.78655,0.885388322
+Metal cutting tools & accessories,0.00124,0.822674461
+Steel structures,0.59281,0.950037965
+Stainless steel utensils,0.08546,0.938144221
+Stainless steel razor,0.11854,-0.651685269
+Lock/padlock,0.00046,0.212209423
+Iron/steel cap,0.01294,0.951684657
+Hose pipes in set or otherwise,0.09066,0.880313308
+Capacitors,0.20041,0.584511339
+Electronic Printed Circuit Board (PCB)/micro circuit,0.07375,0.65788695
+X-ray equipment,0.00698,0.795567112
+Transformer,0.55072,0.753296364
+A C Motor,0.02218,0.959238703
+Electric & other meters,0.04345,0.594647437
+Meter Panel,0.05246,0.790663756
+ACSR Conductors,0.04741,0.95221049
+Insulating & flexible wire,0.08644,0.922858521
+Incandescent Lamps,0.0016,0.820857627
+Electric filament type lamps,0.01471,0.662207506
+Air Coolers,0.00697,0.8526347
+b. Manufacture of fluid power equipment,0.16151,0.893230788
+Injection pump,0.04418,0.790508907
+"c. Manufacture of other pumps, compressors, taps and valves",0.55183,0.877031539
+g. Manufacture of office machinery and equipment,0.00582,0.32151979
+i. Manufacture of agricultural and forestry machinery,0.83265,0.964094968
+Soil preparation & cultivation machinery (other than tractors),0.0384,0.840346069
+Lathes,0.01044,0.70783118
+"Mining, quarrying & metallurgical machinery/parts",0.02454,0.732061563
+Mixing machine,0.00216,0.931589522
+Machinery used in the milling industry,0.02217,-0.532082184
+Printing machinery,0.04184,0.827393992
+Evaporator,0.08073,0.879803213
+o. Manufacture of renewable electricity generating equipment,0.04559,-0.565223418
+a. Manufacture of motor vehicles,2.60026,0.86987148
+b. Manufacture of parts and accessories for motor vehicles,2.36827,0.975477169
+Shock absorbers,0.10028,0.721611893
+Axles of motor vehicles,0.12553,0.963735546
+Ignition device,0.01704,0.796739446
+"Fishing vessels, trawlers",0.1134,0.449354694
+Wagons,0.06331,0.105745686
+Auto rickshaw/Tempo/Matador/Three wheelers,0.01273,0.937478169
+e. Manufacture of other transport equipment,0.00159,0.955069634
+a. Manufacture of furniture,0.72672,0.978447912
+Steel shutter gate,0.0684,0.973977173
+a. Manufacture of jewellery and related articles,0.99638,0.853516931
+"Stringed musical instruments (incl. Santoor, Guitars, etc.)",0.00124,0.721552854
+Intraocular Lens,0.04941,0.74953147
+IV FOOD INDEX,0,#DIV/0!
+a.  FOOD GRAINS (CEREALS+PULSES),3.46238,0.867324712
+Paddy,1.43052,0.839473829
+Barley,0.01437,0.883561898
+Tapioca,0.07213,0.697047306
+Radish,0.03942,0.647270973
+Cucumber,0.00906,0.579306555
+Pumpkin,0.00465,0.474181888
+Jackfruit,0.02458,-0.197531838
+Milk,4.43999,0.895494313
+Fish-Marine,0.42182,0.913608792
+Turmeric,0.10015,0.462081311
+Cardamom,0.01434,0.245171015
+Ginger (Dry),0.02098,0.839565029
+Cumin,0.06256,0.595507363
+Tea,0.12359,0.562414788
+Coffee,0.09879,0.842355009
+Mesta,0.00225,0.782853455
+Groundnut Seed,0.26876,0.854766871
+Niger Seed,0.00234,0.689761274
+Sunflower,0.01659,0.856610873
+Hides (Raw),0.03062,-0.188900848
+Skins (Raw),0.0229,-0.675034046
+Jasmine,0.03063,0.708783819
+Chromite,0.02645,0.719599085
+Limestone,0.06947,0.666312583
+Crude Petroleum,1.94537,0.59089228
+LPG,0.64481,0.529037839
+Kerosene,0.18685,0.932150755
+Naphtha,0.86678,0.543824612
+(C). ELECTRICITY,3.06409,0.875352952
+"Chicken/duck, dressed - fresh/frozen",0.0109,0.868878839
+Soyabean Oil,0.34251,0.84615388
+Castor Oil,0.02955,0.969203686
+Palm Oil,1.01507,0.866626896
+Wheat Bran,0.0397,0.846435616
+Gram powder (besan),0.0959,0.296556809
+"Rice, Non-basmati",0.94347,0.808065428
+"Cakes, pastries & muffins",0.02084,0.942451078
+Sugar,1.05553,0.572899856
+l. Manufacture of Tea & Coffee products,0.37083,0.904133223
+Salt,0.02692,0.968557833
+Gola & similar Cattle Feed,0.21073,0.951970496
+a. Manufacture of wines & spirits,0.40833,0.950570564
+Spirits,0.23997,0.860831866
+Wine,0.09479,0.784085201
+Rectified spirit,0.07357,0.936019492
+Aerated drinks/soft drinks (incl. soft drink concentrates),0.25793,0.435385916
+Biri,0.11183,0.831266438
+Other tobacco products,0.23555,0.766180116
+Synthetic yarn,0.53794,0.607524434
+b. Weaving & Finishing of textiles,1.50903,0.970636482
+Cotton woven cloth,0.00942,0.865494497
+"Fabric, polyethylene",0.05304,0.606284623
+Jute sacking cloth/Gunny and hessian cloth,0.31677,0.827176724
+Knitted fabrics of cotton,0.17714,0.912397732
+Cotton hosiery cloth,0.01582,0.833901976
+Quilts,0.009,0.877609404
+Curtains,0.01942,0.770650647
+"e. Manufacture of cordage, rope, twine and netting",0.09776,0.654129134
+Carpets and other floor coverings of textiles,0.12792,0.827027236
+Shirts/half shirts of cotton and/or man-made fibre,0.35583,0.875627466
+"Shawls and scarves, knitted",0.06085,0.894851213
+Chrome Tanned Leather,0.14213,-0.574958294
+"b. Manufacture of luggage, handbags, saddlery and harness",0.0754,0.721947474
+"Travel goods, handbags, office bags, etc.",0.03798,0.802599923
+Belt & Other Articles of Leather,0.01909,0.662442401
+"Harness, Saddles & Other related Items",0.00831,0.159947939
+c. Manufacture of footwear,0.31785,0.664761055
+"Wood cutting, processed/sized",0.05037,0.676876508
+Plywood block boards,0.19458,0.895735062
+c. Manufacture of builders carpentry and joinery,0.03558,0.862064016
+Wooden block - compressed or not,0.00965,0.84628763
+Wooden box/crate,0.10911,0.116586225
+Newsprint,0.07923,0.870267912
+Press board,0.003,0.861118825
+Paper carton/box,0.0764,0.903611306
+Newspaper,0.03031,0.879561062
+Printed labels/posters/calendars,0.09471,-0.489519567
+Fatty acid,0.02257,0.898361066
+Organic Solvent,0.00015,0.364491906
+Phosphoric acid,0.02073,0.381493278
+Liquid air & other gaseous products,0.0445,0.897063981
+Other Inorganic Chemicals,0.28422,0.942358808
+b. Manufacture of fertilizers and nitrogen compounds,1.48497,0.94279669
+Mixed fertilizer,0.45476,0.955668771
+Ammonium phosphate,0.04093,0.842645898
+d. Manufacture of pesticides and other agrochemical products,0.45369,0.908364343
+Toilet soap,0.07605,0.956379134
+Agarbatti,0.02364,0.725210119
+Perfume/scent,0.10008,0.7071407
+g. Manufacture of other chemical products,0.69227,0.976221298
+Polyester film(metalized),0.08695,0.857396673
+Hydrogen peroxide,0.03517,0.14739935
+"Epoxy, liquid",0.09037,0.732649755
+Rubber Chemicals,0.00748,0.795161447
+Antidiabetic drug excluding insulin (i.e. tolbutam),0.11682,0.852550801
+Vaccine for polio,0.01289,0.673677704
+IV fluids,0.01785,0.488714783
+Motor Car Tyre,0.20706,0.576924171
+2/3 wheeler Tyre,0.0403,0.894403023
+Medium & heavy commercial vehicle tube,0.12918,0.129585185
+Rubber components & parts,0.01732,0.813851261
+Elastic webbing,0.00914,0.716913578
+PVC fittings & other accessories,0.1621,0.765467882
+Plastic tube (flexible/non-flexible),0.07563,0.943383288
+Plastic tape,0.01448,0.912979488
+Plastic tank,0.03701,0.772136555
+a. Manufacture of glass and glass products,0.29504,0.966963129
+Fibre glass incl. sheet,0.03063,0.898893173
+"e. Manufacture of cement, lime and plaster",1.6448,0.962189973
+Lime and calcium carbonate,0.02789,0.986557417
+Graphite rod,0.16911,0.125589352
+Other ferro alloys,0.02768,0.732491599
+c. Mild Steel - Semi Finished Steel,1.27356,0.799914599
+d. Mild Steel -Long Products,1.08063,0.936430924
+MS Bright Bars,0.55727,0.916393313
+e. Mild Steel - Flat products,1.14442,0.899065612
+GP/GC sheet,0.1126,0.890743964
+f. Alloy steel other than Stainless Steel- Shapes,0.06671,0.90139415
+g. Stainless Steel - Semi Finished,0.92396,0.908352311
+"Stainless Steel Coils, Strips & Sheets",0.02925,0.918265681
+Aluminium metal,0.00188,0.896862844
+j. Castings,0.92451,0.915394168
+"Cast iron, castings",0.0555,0.969223303
+Aluminium castings,0.06169,0.880377654
+Jigs & Fixture,0.00541,0.947677914
+Iron/steel hinges,0.003,0.961767174
+"Copper bolts, screws, nuts",0.00012,0.796616238
+Laptops,0.19068,0.596817167
+d. Manufacture of consumer electronics,0.64095,0.102851334
+Colour TV,0.43702,-0.511155607
+Watch,0.06734,0.744686826
+Cooling tower,0.00949,0.783537227
+Rotor/magneto rotor assembly,0.0068,0.854633567
+Amplifier,0.0011,0.829253922
+Multimeter,0.00014,0.413580053
+Solenoid valve,0.0046,0.896437494
+b. Manufacture of batteries and accumulators,0.23573,0.813014911
+Electric Wires & Cables,0.02157,0.911919119
+Aluminium wire,0.01353,0.96742482
+Electrical ballast & chokes,0.00346,-0.485613467
+Domestic gas stove,0.00949,0.772786481
+Washing Machines/Laundry Machines,0.0737,0.923175724
+Microwave oven,0.00206,0.525701286
+Electric heaters,0.04214,0.550111759
+Roller and ball bearings,0.28071,0.924860545
+Chillers,0.00436,0.538345755
+Harvesters,0.00364,0.951803021
+Grinding or polishing machine,0.02477,0.87129562
+Road roller,0.00995,0.868860714
+Earth moving machinery,0.18095,-0.409517732
+Sugar Machinery,0.1179,0.562374662
+Open end spinning machinery,0.13728,0.798049717
+n. Manufacture of other special-purpose machinery,0.46834,0.923350784
+Moulding Machine,0.09108,0.857465062
+"Light, medium & heavy commercial vehicles",0.69584,0.674803511
+Engine,0.83798,0.934407411
+"Brake pad/brake liner/brake block/Brake rubber, others",0.10145,0.909952638
+Chain,0.0219,0.968176502
+Filter element,0.0503,0.35252348
+Diesel/Electric locomotive,0.01891,0.475453571
+Hospital furniture,0.00087,0.595788184
+(V). OTHER MANUFACTURING,1.06417,0.861401069
+Cricket Bat,0.00206,0.917630278
+d. Manufacture of games and toys,0.00476,0.929212504
+Jowar,0.06764,0.836171371
+Ragi,0.00738,0.624521963
+Rajma,0.00573,0.842167502
+b.  FRUITS & VEGETABLES,3.47508,0.797874545
+Peas (Green),0.13654,0.032384649
+Brinjal,0.24125,0.733641228
+Bottle gourd,0.02323,0.355028417
+b2. FRUITS,1.6006,0.872513085
+Banana,0.32937,0.530551638
+Apple,0.07505,0.47660328
+Pineapple,0.03089,0.751172192
+Guava,0.0456,0.616955162
+Lemon,0.06575,0.140320275
+Sapota,0.02814,0.838244918
+Pomengranate,0.02122,0.492465216
+Walnut,0.02599,0.8845721
+Egg,0.23264,0.846681182
+Pork,0.06051,0.891454542
+Betel Leaves,0.14419,-0.100501732
+Sugarcane,0.58142,0.822454945
+Soyabean,0.37606,0.799591618
+Gaur Seed,0.10347,0.070019337
+(C).  MINERALS,0.83317,0.944712467
+a.  METALLIC MINERALS,0.64818,0.913003929
+Lead Concentrate,0.00369,0.89329341
+II FUEL & POWER,13.1519,0.835638592
+Lignite,0.09013,0.923337723
+Petroleum Coke,0.04663,0.932241361
+"Jams, jellies, marmalades and puree",0.02391,0.778052237
+"Sauces of Vegetables (Tomato, Chilli, Soya & others)",0.03397,0.790138298
+Mustard Oil,0.18053,0.83011813
+Rice Bran Oil,0.29613,0.872388835
+Rapeseed Oil,0.0116,0.739927997
+Copra oil,0.02769,0.566141682
+Butter,0.52138,0.836504991
+Rice products,0.07025,0.829446596
+g. Manufacture of starches and starch products,0.10955,0.907927238
+Vegetable starch,0.10955,0.907927238
+h. Manufacture of bakery products,0.21459,0.95180461
+"Bread, buns & croissant",0.035,0.943711461
+Molasses,0.04486,0.060560779
+Mustard oil cake,0.03512,0.396456513
+Beer,0.16276,0.825206203
+(C). MANUFACTURE OF TOBACCO PRODUCTS,0.51357,0.800819693
+a. Manufacture of tobacco products,0.51357,0.800819693
+Viscose yarn,0.09019,0.843131376
+Nylon rope,0.00911,0.495709731
+Cordage/ropes/twines of jute and coir,0.08865,0.646535689
+f. Manufacture of other textiles,0.20089,0.920934588
+Trouser/pants made of cotton and/or man-made fibre,0.01377,0.804077435
+"Babies garments, knitted",0.08874,0.849443899
+Athletic/sport shoes,0.01651,-0.463741095
+Canvas shoes,0.01281,0.870154215
+Waterproof footwear,0.01734,-0.281030412
+Wooden splint,0.01936,0.809310638
+Lamination wooden sheets/Veneer sheets,0.18314,0.593351765
+Hard board,0.00062,0.889075511
+Poster paper,0.00604,0.850981091
+Corrugated paper board,0.01591,0.942591019
+Duplex paper,0.18002,0.838043338
+Map litho paper,0.09799,0.852851417
+(I). PRINTING AND REPRODUCTION OF RECORDED MEDIA ,0.67622,0.876674421
+Sticker plastic,0.01846,0.40271797
+Acetic acid and Its Derivatives,0.02452,0.613902466
+Soda ash/washing soda,0.06255,0.922261389
+Camphor,0.00751,0.620408382
+Ammonium nitrate,0.01281,0.878051508
+Catalysts,0.01697,0.940546843
+Urea,0.72685,0.597380898
+"Polystyrene, expandable",0.02619,0.668749881
+Varnish (all types),0.01733,0.900128604
+Printing ink,0.0754,0.963189389
+Tooth paste/Tooth Powder,0.02704,0.816634928
+Foundry chemical,0.00808,0.854458233
+Organic chemicals,0.04383,0.865299109
+h. Manufacture of man-made fibres,0.29636,0.55827271
+"Antipyretic, analgesic, anti-inflammatory formulations",0.00358,0.950220963
+Antibiotics & preparations thereof,0.23061,0.956840858
+Sulpha drugs,0.03627,0.890032839
+Antioxidants,0.02243,0.915063117
+Rubberized dipped fabric,0.00203,0.815548913
+Processed rubber,0.01724,0.73704637
+Rubber Tread,0.01864,0.25719938
+Rubber tubes- not for tyres,0.05076,0.103180521
+Polyester film (non-metalized),0.01969,0.286849892
+Polythene film,0.04306,0.923579559
+Plastic bottle,0.06262,0.823293282
+Plastic components,0.20335,0.902674546
+Tooth brush,0.03926,0.854557744
+Toughened glass,0.02939,0.658374508
+Opthalmic lens,0.03097,0.798290935
+b. Manufacture of refractory products,0.22322,0.396259011
+Plain bricks,0.03659,-0.469128319
+d. Manufacture of other porcelain and ceramic products,0.22247,0.740784035
+Porcelain crockery,0.02145,0.948670812
+Granite,0.15735,0.831739641
+"Stone, chip",0.07616,0.458245901
+Ferrosilicon,0.02314,0.754877684
+Pig Iron,0.65301,0.926603745
+Mild Steel (MS) Blooms,0.64842,0.822981172
+MS Pencil Ingots,0.04173,0.913014296
+"Cold Rolled (CR) Coils & Sheets, including Narrow Strip",0.09307,0.897591674
+"Lead ingots, bars, blocks, plates",0.01906,0.932154537
+Aluminium alloys,0.06796,0.929868321
+Steel forgings - rough,0.27051,0.924395875
+a. Manufacture of structural metal products,1.03144,0.961447857
+Boilers,0.1225,-0.524692427
+Electrical stamping- Laminated or otherwise,0.17896,0.84064904
+"e. Manufacture of cutlery, hand tools and general hardware",0.20758,0.50284764
+Aluminium utensils,0.02264,0.771616975
+Steel door,0.0085,0.855323584
+Steel drums and barrels,0.02274,0.94076732
+"(P). MANUFACTURE OF COMPUTER, ELECTRONIC AND OPTICAL PRODUCTS",2.00875,0.86897927
+a. Manufacture of electronic components,0.40241,0.540256984
+UPS in Solid State Drives,0.12825,-0.242408505
+Modems,0.0042,-0.822415612
+Meter (non-electrical),0.18056,0.721556741
+Clock,0.00513,0.967950298
+Microscope,0.0045,0.844388233
+Sunglasses,0.00301,-0.807539847
+Electric switch gear control/starter,0.02069,0.892460365
+Electrical relay/conductor,0.1027,0.949521639
+Connector/plug/socket/holder-electric,0.04832,0.941660779
+Light fitting accessories,0.03113,0.815016393
+Insulator,0.11159,0.812089738
+Steam Turbines,0.02536,-0.617246666
+Industrial valve,0.61304,0.945307487
+"d. Manufacture of bearings, gears, gearing and driving elements",0.34015,0.952271243
+Motor Starter,0.04757,0.961446504
+"Material handling, lifting and hoisting equipment",0.04086,0.892368941
+Reprographic machine and scanners,0.00582,0.32151979
+Air filters,0.25613,0.582994562
+Filtration equipment,0.13412,0.944642161
+Conveyors - non-roller type,0.00093,-0.029795153
+Oil pump,0.002,0.912052584
+Agricultural tractors,0.52772,0.932898203
+Threshers,0.00071,0.877473835
+Precision machinery equipment/Form tools,0.11948,0.440254582
+Dumper,0.06785,-0.46578674
+Concrete vibrator & mixture,0.01692,0.913563324
+Separator,0.00246,0.114411071
+Sewing Machines,0.01112,0.974616791
+Windmill turbines (2500KW),0.01977,-0.324792472
+Chassis of different vehicle types,0.15893,0.940668821
+Piston ring/Piston and Compressor,0.05103,0.826322242
+Crankshaft,0.02807,0.862417405
+Silencer and Damper,0.07898,0.887628357
+Steering gear control system,0.08627,0.955872467
+Release valve,0.00101,0.664722755
+Propellers & Blades of Boats/Ships,0.00394,0.929282742
+Railway brake gear,0.00042,2.50765E-15
+Tanker,0.00159,0.955069634
+Wooden furniture,0.18979,0.917811336
+Plastic fixtures,0.09781,0.714606749
+Foam and rubber mattress,0.10674,0.944196315
+Silver,0.03077,0.717067997
+c. Manufacture of sports goods,0.01238,0.923260416
+Sports goods of rubber (incl. balls),0.00367,0.868380293
+Carrom board,0.00045,0.924746443
+I    PRIMARY ARTICLES,22.61756,0.98225666
+a1. CEREALS,2.82378,0.88743811
+Wheat,1.02823,0.895349874
+Maize,0.18927,0.822961658
+Gram,0.26377,0.276563657
+b1. VEGETABLES,1.87448,0.64306119
+Sweet Potato,0.02051,0.099837378
+Onion,0.16445,0.098828471
+Ginger (Fresh),0.02124,0.24020124
+Tomato,0.28446,0.503299897
+Bitter gourd,0.02261,0.458745762
+Coconut (Fresh),0.07873,0.774696683
+Papaya,0.06368,0.897937758
+Almonds,0.02469,0.841355873
+c.  MILK,4.43999,0.895494313
+e.  CONDIMENTS & SPICES,0.52885,0.862250128
+Chillies (Dry),0.14056,0.907884135
+Betelnut/Arecanut,0.08487,0.906225161
+(B).  NON-FOOD ARTICLES,4.11894,0.969599332
+Coir Fibre,0.01555,-0.089305399
+b.  OIL SEEDS,1.1153,0.903537777
+Rape & Mustard Seed,0.24914,0.817227017
+Linseed,0.0064,0.859311417
+Manganese Ore,0.03955,0.435755823
+b.  OTHER MINERALS,0.18499,0.942242931
+Sillimanite,0.00061,0.782143286
+(A). COAL,2.13813,0.877113307
+a. Coking Coal,0.64703,0.759951611
+c.) Non-Coking Coal G15 to G17 [GCV < 3100 Kcal/kg.],0.01203,0.551434404
+ATF,0.31991,0.695922714
+HSD,3.09548,0.763050476
+Furnace Oil,0.66576,0.561139227
+Electricity,3.06409,0.875352952
+(A). MANUFACTURE OF FOOD PRODUCTS,9.12173,0.962538313
+Fruit Juice including concentrates,0.04695,0.516640488
+d. Manufacture of vegetable and animal oils and fats,2.64293,0.880000326
+Sunflower Oil,0.23133,0.837884857
+Powder Milk,0.16715,0.857373873
+Maida,0.19044,0.850739138
+Sooji (rawa ),0.02473,0.842917669
+Sugar confectionary,0.07816,0.771081403
+Coffee powder with chicory,0.00616,0.887010319
+Cotton seed oil cake,0.06115,0.817232147
+Bottled Mineral water,0.01755,0.72034622
+a. Preparation and spinning of textile fibres,2.58154,0.845695408
+Cotton Yarn,1.34192,0.88714097
+Texturised and twisted Yarn,0.50957,0.612194586
+c. Manufacture of knitted and crocheted fabrics,0.19296,0.915287678
+Tyre cord fabric,0.07297,0.274136037
+b. Manufacture of knitted and crocheted apparel,0.2209,0.876205101
+"Cardigans and pullovers, knitted",0.03253,0.499871066
+Plastic/PVC Chappals,0.06382,0.945889313
+a. Saw milling and planing of wood,0.12417,0.898072052
+Wooden panel,0.02696,0.867389165
+d. Manufacture of wooden containers,0.11876,0.244617299
+(H). MANUFACTURE OF PAPER AND PAPER PRODUCTS,1.11322,0.971150103
+Base paper,0.01093,0.925813613
+Card board,0.031,0.862338078
+Tissue paper,0.02255,0.960962388
+Bristle paper board,0.03288,0.94169542
+Pulp board,0.00247,0.790590965
+Corrugated sheet box,0.19469,0.859459005
+Card board box,0.02722,0.92431045
+c. Manufacture of other articles of paper and paperboard,0.30604,0.926189591
+a. Printing,0.67622,0.876674421
+Journal/periodical,0.21333,0.884736882
+Printed form & schedule,0.01659,0.86132695
+Hologram (3D),0.00297,0.680831253
+(J). MANUFACTURE OF CHEMICALS AND CHEMICAL PRODUCTS,6.46505,0.97501761
+Carbon Black,0.10555,0.814416535
+Ethyl acetate,0.03246,0.861534714
+Ethylene Oxide,0.01294,0.713096027
+Ammonia gas,0.04383,0.789032003
+"Superphospate/Phosphatic fertilizer, others",0.08472,0.838738251
+Polyethylene,0.51618,0.793962679
+Insecticide and Pesticide,0.38578,0.862975538
+Agro chemical formulation,0.06434,0.920229647
+"Fungicide, liquid",0.00357,0.912536105
+Powder coating material,0.01208,0.926225068
+Organic surface active agent,0.01834,0.625076247
+Creams & Lotions for External Application,0.02734,0.428241389
+Mosquito coil,0.00621,0.752822479
+Explosive,0.08728,0.967569752
+Polyester fibre fabric,0.08691,0.863676393
+Anti inflammatory preparation,0.00306,0.780471012
+Ayurvedic medicaments,0.06506,0.900272097
+Medical accessories,0.39104,0.764596145
+Medium & heavy commercial vehicle tyre,0.12918,0.552359962
+Motor Car Tube,0.01126,-0.456484373
+Rubber cloth/sheet,0.01224,0.838551664
+2/3 wheeler rubber tube,0.01601,0.917387439
+c. Manufacture of plastics products,1.41776,0.952404266
+Plastic box/container,0.31065,0.959591881
+Plastic button,0.00721,0.764484589
+Non ceramic tiles,0.0076,0.942626948
+c. Manufacture of clay building materials,0.12113,0.697915526
+Clinker,0.31582,0.93438702
+White cement,0.18047,0.809624782
+Cement superfine,0.07761,0.804005731
+"f. Manufacture of articles of concrete, cement and plaster",0.29248,0.95634095
+Asbestos corrugated sheet,0.12181,0.878730986
+Marble Slab,0.09603,0.673267687
+Cement blocks (concrete),0.04345,0.943000946
+Ferromanganese,0.02589,0.80613641
+Silicomanganese,0.21885,0.681973623
+Rails,0.13227,0.899168006
+"Angles, Channels, Sections, steel (coated/not)",0.01267,0.884092586
+Steel cables,0.05514,0.841265345
+Alloy steel Wire rods,0.06671,0.90139415
+h. Pipes & tubes,0.20534,0.987037615
+Stainless steel tubes,0.20459,0.987049243
+i. Manufacture of non-ferrous metals incl. precious metals,1.69264,0.952555091
+Copper metal/Copper Rings,0.11676,0.919669312
+Zinc metal/zinc blocks,0.02265,0.895346297
+Aluminium shapes - bars/rods/flats,0.21326,0.953475478
+Brass metal/sheet/coils,0.01026,0.959006147
+Alloy steel castings,0.02077,0.958322894
+k. Forgings of steel,0.27051,0.924395875
+"Steel pipes, tubes & poles",0.28647,0.970279241
+Mild steel (MS) flats & sheets,0.14193,0.137389321
+"b. Manufacture of tanks, reservoirs and containers of metal",0.65951,0.954623502
+Cylinders,0.56456,0.946369218
+Steel Container,0.07075,0.975851394
+Stainless steel tank,0.0242,0.959563746
+Forged Steel Rings,0.20446,0.882930129
+f. Manufacture of other fabricated metal products,0.72841,0.96368274
+Hand tools,0.27659,0.852467528
+Personal Computer (P.C.),0.10995,0.432509132
+Computer peripherals,0.03574,-0.503838526
+c. Manufacture of communication equipment,0.30998,0.933278883
+Telephone sets including mobile hand sets,0.30578,0.934266253
+Air conditioner,0.20393,0.827409166
+Scientific time keeping device,0.00304,0.809938828
+Generator parts,0.08079,0.782510053
+Electrical resistors (except heating resistors),0.00732,0.934716717
+Electric accumulators,0.00207,0.68412838
+Batteries,0.19028,0.842218679
+Fibre Optic Cables,0.13327,-0.189198679
+PVC Insulated Cable,0.08292,0.977601978
+Jelly Filled Cables,0.00366,0.935238123
+Aluminium/Alloy Conductor,0.02667,0.967613325
+Rubber Insulated Cables,0.01964,-0.411093215
+Flourescent tube,0.03823,0.896382173
+f. Manufacture of domestic appliances,0.366,0.918693738
+Refrigerators,0.13502,0.631203746
+Electric Mixers/Grinders/Food Processors,0.04313,0.704580303
+Geyser,0.00269,0.036914045
+g. Manufacture of other electrical equipment,0.20589,0.926753827
+Motors & other DC equipment,0.03353,0.826166454
+(R). MANUFACTURE OF MACHINERY AND EQUIPMENT,4.78899,0.978575652
+Pneumatic tools,0.04017,0.892175164
+Centrifugal Pumps,0.02796,0.967815646
+Pump sets without motor,0.25362,0.114464415
+Air or vacuum pump,0.17456,0.916007755
+Air gas compressor including compressor for refrigerator,0.05445,0.934665089
+Gasket kit,0.04124,0.550671739
+Clutches and shaft couplings,0.01187,0.892654235
+f. Manufacture of lifting and handling equipment,0.28509,0.982804743
+Cranes,0.0762,0.935134231
+Hydraulic equipment,0.16803,0.943521575
+j. Manufacture of metal-forming machinery and machine tools,0.22363,0.842191308
+Drilling Machine,0.06894,0.896740398
+Rice mill machinery,0.03071,0.753027018
+Pharmaceutical Machinery,0.19273,0.927645732
+Solar power system (solar panel & attachable equipment),0.02582,-0.578012501
+"(S). MANUFACTURE OF MOTOR VEHICLES, TRAILERS AND SEMI-TRAILERS",4.96853,0.956557405
+Minibus/bus,0.79295,0.959392685
+Body (for commercial motor vehicles),0.08918,0.922049644
+Wheels/Wheels & parts,0.14275,0.945006594
+Radiators & coolers,0.06161,0.948999319
+Head lamp,0.03681,0.878427269
+Gear box and parts,0.31546,0.92548223
+a. Building of ships and floating structures,0.11734,0.456605405
+EMU coaches,0.02715,0.394985102
+Motor cycles,1.1661,0.949664948
+Scooters,0.12322,0.928666856
+Bicycles of all types,0.117,0.902473371
+(U). MANUFACTURE OF FURNITURE,0.72672,0.978447912
+Gold & gold ornaments,0.96561,0.848139572
+b. Manufacture of musical instruments,0.00124,0.721552854
+Table Tennis Table,0.0008,0.79787771
+Plastic moulded-others toys,0.0021,0.880349503
+Non Mechanical Toys,0.00014,0.82403523
